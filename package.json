@@ -1,0 +1,23 @@
+{
+  "name": "zjzvitecopy",
+  "version": "1.0.0",
+  "description": "vite copy forder to dist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjzno1/zjzViteCopy.git"
+  },
+  "keywords": [
+    "vite",
+    "copy"
+  ],
+  "author": "zjzno1",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/zjzno1/zjzViteCopy/issues"
+  },
+  "homepage": "https://github.com/zjzno1/zjzViteCopy#readme"
+}
