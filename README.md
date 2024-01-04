@@ -2,7 +2,7 @@
 在`vite.config.js`中引入
 ```
 
-    import zjzViteCopy from './zjzViteCopy';
+    import zjzViteCopy from 'zjzViteCopy';
 ```
 
 在plugin中写入:
